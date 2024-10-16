@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaya3vr6317" alt="gaya3vr6317" /></a> </p>
 
+- 🔭 I’m currently working on **Sirius**
+
 - 🌱 I’m currently learning **Python, UI/UX**
 
 - 🤝 I’m looking for help with **HTML, CSS**
@@ -17,6 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/gayathri v r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gayathri v r" height="30" width="40" /></a>
 <a href="https://instagram.com/gaya3_vr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gaya3_vr" height="30" width="40" /></a>
 </p>
 
